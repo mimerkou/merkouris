@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 // icons
 import {
@@ -102,7 +102,7 @@ import { fadeIn } from '../../variants';
 import { HiArrowRight } from 'react-icons/hi2';
 
 const About = () => {
-  const [index, setIndex] = useState(0);
+  // const [index, setIndex] = useState(0);
 
   return (
     <div className="h-full bg-primary/30 py-20 text-center xl:text-left">

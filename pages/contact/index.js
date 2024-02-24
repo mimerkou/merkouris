@@ -21,7 +21,7 @@ const Contact = () => {
             exit="hidden"
           >
             {/* Let's connect<span className="text-accent">.</span> */}
-            Let's <span className="text-accent">connect</span>
+            Let&apos; s <span className="text-accent">connect</span>
           </motion.h2>
           <motion.p
             className="max-w-[750px] mx-auto mb-6 xl:mb-6 px-2 xl:px-0"
@@ -30,7 +30,7 @@ const Contact = () => {
             animate="show"
             exit="hidden"
           >
-            Although I'm full-time occupied, I never miss a chance to work on
+            Although I am full-time occupied, I never miss a chance to work on
             captivating projects. If you are interested in e-business plan and
             marketing that truly works, it will be my pleasure to collaborate
             with you. You can contact me through social media links or email me

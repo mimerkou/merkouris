@@ -137,7 +137,7 @@ const About = () => {
             animate="show"
             exit="hidden"
           >
-            Hello, I'm Michalis, a digital marketing consultant and copywriter.
+            Hello, I am Michalis, a digital marketing consultant and copywriter.
             Based in Athens, I work for a creative digital agency called{' '}
             <a
               href="https://webdots.gr/"

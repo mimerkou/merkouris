@@ -41,7 +41,7 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-7 xl:mb-9"
           >
-            Hello! I'm Michalis, a Digital Marketer based in Athens, Greece.
+            Hello! I am Michalis, a Digital Marketer based in Athens, Greece.
             <br />
             Digital Strategy | Social Media Marketing | Copywriting
           </motion.p>
